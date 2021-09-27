@@ -1,5 +1,5 @@
 /*
-Primitive Data Type i JS
+Primitive Data Type is JS
 string, number, boolean, null, undefined
 */
 
@@ -64,3 +64,4 @@ var selectedCar=undefined;//It's not necessary to initialize 'selectedCar' to 'u
 console.log(selectedCar); //undefined
 console.log(typeof(pickColorselectedCar)); //undefined
 
+var name = null;
